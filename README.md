@@ -1,1 +1,1 @@
-PyTorch implementation of linear classifier on the fashion MNIST dataset.
+Implementation of linear classifier on the fashion MNIST dataset.
